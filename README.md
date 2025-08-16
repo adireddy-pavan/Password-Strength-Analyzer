@@ -19,7 +19,7 @@
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/yourusername/password-strength-analyzer.git
+   git clone https://github.com/adireddy-pavan/password-strength-analyzer.git
    ```
 
 2. **Navigate to Project Directory**
@@ -93,20 +93,3 @@ python password_analyzer.py --password "YourPassword123!"
 
 ---
 
-## 🤝 Contributing
-We welcome contributions! Please follow these steps:
-
-1. **Fork** the repository.
-2. **Create** your feature branch:
-   ```bash
-   git checkout -b feature/AmazingFeature
-   ```
-3. **Commit** your changes:
-   ```bash
-   git commit -m 'Add some AmazingFeature'
-   ```
-4. **Push** to the branch:
-   ```bash
-   git push origin feature/AmazingFeature
-   ```
-5. **Open a Pull Request** for review.
